@@ -29,4 +29,4 @@ Comparing the accuracies achieved by all the models:
 | SVC |  82.53% |    93.56%   |  45.63  |    64.48%   |        56.34%      |
 
 ## Conclusion:
-As clearly visible, Random forest Classifier is consistently working well in all the sampling techniques and producing the highest accuracy in every sampling method.
+Random forest Classifier is consistently working well in all the sampling techniques and producing the highest accuracy in every sampling method.
